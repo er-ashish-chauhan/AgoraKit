@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/agorapoc.iml" filepath="$PROJECT_DIR$/.idea/modules/agorapoc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2128329374/agorapoc.agora-react-native-rtm.iml" filepath="$PROJECT_DIR$/.idea/modules/2128329374/agorapoc.agora-react-native-rtm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/agorapoc.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/agorapoc.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-767580206/agorapoc.react-native-agora.iml" filepath="$PROJECT_DIR$/.idea/modules/-767580206/agorapoc.react-native-agora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-845216781/agorapoc.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-845216781/agorapoc.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-899802545/agorapoc.react-native-fs.iml" filepath="$PROJECT_DIR$/.idea/modules/-899802545/agorapoc.react-native-fs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-446366652/agorapoc.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-446366652/agorapoc.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/431753048/agorapoc.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/431753048/agorapoc.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1189745581/agorapoc.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1189745581/agorapoc.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1022146565/agorapoc.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1022146565/agorapoc.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-298716333/agorapoc.react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/-298716333/agorapoc.react-native-webview.iml" />
+    </modules>
+  </component>
+</project>

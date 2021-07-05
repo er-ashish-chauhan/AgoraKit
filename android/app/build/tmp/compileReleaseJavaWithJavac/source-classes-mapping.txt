@@ -1,0 +1,9 @@
+com/agorapoc/MainApplication.java
+ com.agorapoc.MainApplication
+ com.agorapoc.MainApplication$1
+com/agorapoc/MainActivity.java
+ com.agorapoc.MainActivity
+com/agorapoc/BuildConfig.java
+ com.agorapoc.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

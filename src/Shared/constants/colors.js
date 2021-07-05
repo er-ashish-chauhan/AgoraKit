@@ -1,0 +1,48 @@
+export default {
+  black: '#000',
+  bodyBlack: '#101418',
+  white: '#fff',
+  light: '#f0f0f0',
+
+  themeColor: "#da2a1c",
+  red_e2211c: "#e2211c",
+  primary_7c2529: "#7c2529",
+
+  lighterGray: '#dadada',
+  lightGray: '#999999',
+  gray_9da1a1: "#9da1a1",
+
+  shadowColor: "#dedfdf",
+  gray_ebebeb: "#ebebeb",
+  gray_b9b9b9: "#b9b9b9",
+  gray_9e9e9e: "#9e9e9e",
+  gray_eaeaea: "#eaeaea",
+
+  gray: '#666',
+  colorGrey_777: '#777',
+  darkGray: '#343a40',
+  darkBlueGray: '#1C235230',
+  blueGray: '#E3E6FB',
+  steelGray: '#F2F2F2',
+  silverGray: '#e8e8e8',
+  border: '#c4c4c4',
+  lavender: '#F2F4F5',
+
+  // primary: '#1B2251',
+  primary: '#013AAE',
+  secondary: '#f8d81e',
+  danger: '#f00',
+  success: '#28a745',
+  info: '#17a2b8',
+  warning: 'ffc107',
+  borderGray: '#A5A5A5',
+  hr: '#CCCCCC',
+  green: '#0CB04A',
+
+  alertColor: '#f8d7da',
+  placeholder: '#A5A5A5',
+  homeBackground: '#FFF',
+  skyBlue: '#68BFDE',
+  linkBlue: '#007bff',
+  color_FAFAFA: '#FAFAFA',
+};
